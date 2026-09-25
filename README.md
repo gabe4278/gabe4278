@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# ![](https://github-readme-stats.vercel.app/api?username=gabe4278&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe4278&layout=compact&theme=material-palenight&hide_border=true)
 <!--
 **gabe4278/gabe4278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
